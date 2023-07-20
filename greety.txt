@@ -1,0 +1,2 @@
+hi nutx 2
+bye nuty
